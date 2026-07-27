@@ -1,188 +1,186 @@
 # Hi, I'm Tejashwini Malge
 
-### AI • Communication • Confidence
+### AI Engineer | Agentic AI | Building AI Systems that Solve Real Problems
 
-Final-year engineering student passionate about building impactful AI systems, empowering students through technology, and simplifying complex concepts through communication.
+Final-year Computer Science student passionate about Agentic AI, Large Language Models (LLMs), Multimodal AI, and building production-level AI systems that create real-world impact.
+
+Currently working on AI research, multi-agent systems, and scalable AI applications while helping students grow through technology and communication.
 
 ---
 
 # About Me
 
-*  Final-year engineering student exploring AI, RAG systems, and production-ready applications
-*  Building AI-powered products focused on education, productivity, and real-world impact
-*  Currently learning Transformer architectures, inference optimization, and scalable AI systems
-*  Public speaker, mentor, and educator working with students and learners
-*  Strong believer in learning in public and growing through experimentation
+-  Final-year Computer Science Engineering student (CGPA: 9.5/10)
+-  AI Research Intern at NITK Surathkal working on Vision-Language Models for radiology report generation
+-  AI Social Impact Fellow building AI-powered NGO transparency systems
+-  Interested in Agentic AI, LLMs, Multimodal AI, and AI System Design
+-  AI Speaker, Mentor, and Guest Trainer who has reached 750+ students
+-  Sharing AI, networking, and career insights with 3,000+ professionals on LinkedIn
+
+
+#  Tech Stack
+
+## Languages
+
+- Python
+- SQL
+
+## AI & Machine Learning
+
+- Large Language Models (LLMs)
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- PyTorch
+- TensorFlow
+- Transformers
+- Vision-Language Models (VLMs)
+- Computer Vision
+- Prompt Engineering
+
+## Frameworks
+
+- FastAPI
+- Next.js
+- React
+- Tailwind CSS
+- Prisma ORM
+
+## Databases
+
+- PostgreSQL
+- Neon PostgreSQL
+
+## Developer Tools
+
+- Git
+- GitHub
+- Docker
+- Railway
+- Render
+- Vercel
 
 ---
 
-# Tech Stack
+#  Featured Projects
 
-## Languages & Frameworks
+## 🎯 AIRA — AI Communication Platform
 
-* Python
-* JavaScript
-* React
-* Node.js
-* Express.js
-* FastAPI
-* MongoDB
+An AI-powered communication coach that analyzes six communication dimensions and generates personalized feedback reports.
 
-## AI & ML
+### Highlights
 
-* PyTorch
-* Transformers
-* LangChain
-* ChromaDB
-* Retrieval-Augmented Generation (RAG)
-* Embeddings & Semantic Search
-* Groq APIs
+- LLM-powered conversational analysis
+- Adaptive questioning system
+- Personalized improvement reports
+- Communication confidence tracking
+- Mock interview assistance
 
-## Tools
+**Tech Stack**
 
-* Git & GitHub
-* Docker
-* VS Code
-* Postman
-* Streamlit
+Python • FastAPI • LLMs • Agentic Workflows
 
 ---
 
-# Featured Projects
+##  ImpactBridge — AI NGO Transparency Platform
 
-## ShopKart — AI Shopping Assistant
-
-An AI-powered shopping assistant built using RAG architecture.
+An AI-powered platform improving trust between NGOs and donors through intelligent compliance verification.
 
 ### Features
 
-* Semantic product search
-* ChromaDB vector retrieval
-* Embedding-based recommendations
-* Groq-powered AI responses
-* Retrieval-Augmented Generation pipeline
+- AI Compliance Verification
+- Fraud Detection Agents
+- Document Verification
+- Human Approval Workflows
+- Campaign Review System
+- Automated Compliance Tracking
 
-### Tech Used
+**Tech Stack**
 
-Python • ChromaDB • FastAPI • Transformers • Groq
-
----
-
-## AIRA — Adaptive AI Learning System
-
-An AI learning companion focused on personalized learning experiences.
-
-### Features
-
-* Adaptive quiz generation
-* AI-powered learning support
-* Student progress tracking
-* Personalized interaction flow
-
-### Focus Areas
-
-AI in Education • Personalization • Adaptive Systems
+Next.js • Prisma ORM • PostgreSQL • Agentic AI
 
 ---
 
-## BlogAgent — Multi-Agent Content Generation System
+##  BlogAgent — Multi-Agent Writing System
 
-A multi-agent AI workflow for research, writing, and editing.
+A three-agent autonomous workflow that researches, writes, and edits complete blogs with iterative refinement.
 
-### Agents
+### AI Agents
 
-* Research Agent
-* Writing Agent
-* Editing Agent
+- 🔍 Research Agent
+- ✍️ Writing Agent
+- ✅ Editing Agent
 
-### Focus
+### Highlights
 
-Agentic AI • Workflow Automation • Content Intelligence
-
----
-
-## Kavach — Voice-Based AI Fraud Detection System
-
-A voice-based AI application designed to detect potentially fraudulent or suspicious communication patterns during user interactions.
-
-### Features
-
-* Voice-driven interaction workflows
-* Fraud and scam detection assistance
-* AI-based speech analysis
-* Real-time alert and support mechanisms
-* Intelligent conversational processing
-
-### Focus Areas
-
-Voice AI • Fraud Detection • Conversational AI • AI Systems
+- Autonomous multi-agent collaboration
+- Multi-pass refinement
+- Improved factual consistency
+- End-to-end content generation
 
 ---
 
-# Teaching & Mentorship Experience
+## 🏥 AI Radiology Report Generation (Research)
 
-* Worked with 750+ students and learners
-* Conducted mentorship sessions and technical guidance programs
-* Helped students explore AI, development, communication, and career growth
-* Passionate about simplifying difficult technical concepts into understandable learning experiences
+Currently contributing to multimodal medical AI research focused on generating structured radiology reports from medical images.
 
----
+### Research Areas
 
-# Community & Personal Brand
-
-## LinkedIn
-
-* Active creator and educator on LinkedIn
-* 2,700+ followers
-* Sharing content around:
-
-  * AI
-  * Communication
-  * Confidence
-  * Student growth
-  * Technology learning journeys
-
-## Content Series
-
-### tejuseries
-
-A content initiative focused on growth, learning, AI exploration, and personal development.
+- Vision-Language Models
+- Medical AI
+- Transformers
+- Multimodal Learning
+- Clinical Report Generation
 
 ---
 
-# Currently Exploring
+# 🔬 Research Interests
 
-* Transformer internals
-* Attention mechanisms
-* RAG optimization
-* AI system design
-* Inference optimization
-* Production-grade AI architecture
-* Retrieval systems
-* Adaptive AI learning systems
-
----
-
-# Goals
-
-* Build impactful AI products
-* Contribute to real-world AI systems
-* Grow as an AI engineer and communicator
-* Create technology that helps students and young learners
-* Speak on stages about AI, growth, and learning
+- Agentic AI
+- Large Language Models
+- Vision-Language Models
+- Multimodal Learning
+- Transformer Architectures
+- Retrieval-Augmented Generation
+- AI System Design
+- Multi-Agent Orchestration
+- Production AI Systems
 
 ---
 
-# Connect With Me
+# Leadership & Community
 
-* LinkedIn: [www.linkedin.com/in/tejashwinimalge](http://www.linkedin.com/in/tejashwinimalge)
-* GitHub: [https://github.com/](https://github.com/)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+-  Guest Trainer delivering AI and communication workshops
+-  Mentored 750+ students across colleges and institutions
+-  Speaker's Club Coordinator mentoring communication and presentation skills
+-  Participant in AI Hackathons and Enterprise Technology Competitions
+-  Built a LinkedIn community of 3,000+ professionals sharing AI and career insights
 
 ---
 
-# ✨ Philosophy
 
-> "Growth begins the moment curiosity becomes deeper than comfort."
 
-I believe technology becomes meaningful when it empowers people, simplifies learning, and creates opportunities for growth.
+---
+
+#  Goals
+
+- Build AI systems that solve meaningful real-world problems
+- Contribute to production AI products
+- Advance Agentic AI and Multimodal AI
+- Inspire students through technology, education, and communication
+
+---
+
+#  Let's Connect:
+
+ Portfolio:
+ https://tejashwiniportfolio.vercel.app
+
+LinkedIn:
+https://linkedin.com/in/tejashwinimalge
+
+GitHub:
+https://github.com/Tejashwini-Malge
+
+ Email:
+trmalge@gmail.com
+
