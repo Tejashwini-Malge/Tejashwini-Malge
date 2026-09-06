@@ -33,9 +33,8 @@ Currently working on AI research, multi-agent systems, and scalable AI applicati
 - PyTorch
 - TensorFlow
 - Transformers
-- Vision-Language Models (VLMs)
 - Computer Vision
-- Prompt Engineering
+
 
 ## Frameworks
 
@@ -69,11 +68,9 @@ An AI-powered communication coach that analyzes six communication dimensions and
 
 ### Highlights
 
-- LLM-powered conversational analysis
-- Adaptive questioning system
-- Personalized improvement reports
-- Communication confidence tracking
-- Mock interview assistance
+-Built an LLM-powered interview-preparation platform with adaptive questioning and personalized feedback across six communication dimensions.
+-Designed the platform to support personalized practice for communication, confidence, and interview performance.
+-Validated the platform with 70+ users, including students, educators, trainers, and professionals.
 
 **Tech Stack**
 
@@ -149,8 +146,9 @@ Currently contributing to multimodal medical AI research focused on generating s
 
 # Leadership & Community
 
+- All India 355th Rank in AI Education
 -  Guest Trainer delivering AI and communication workshops
--  Mentored 750+ students across colleges and institutions
+-  Mentored 1000+ students across colleges and institutions
 -  Speaker's Club Coordinator mentoring communication and presentation skills
 -  Participant in AI Hackathons and Enterprise Technology Competitions
 -  Built a LinkedIn community of 3,000+ professionals sharing AI and career insights
